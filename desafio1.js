@@ -174,7 +174,7 @@ fecha	cierre
 1) Crear un algoritmo que detecte: 
     a) Valor minimo
     b) Valor maximo
-    c) Valor promedio
+    c) Valor promedio.
 
 2) Estos Algoritmos deben poder funcionar con cualquier set de cotizaciones de cualquier empresa.
 
